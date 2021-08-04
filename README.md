@@ -1,2 +1,1 @@
-# PigGame
-PigGameTest
+# RollingDiceGame
